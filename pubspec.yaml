@@ -1,0 +1,12 @@
+name: rest_client_demo
+description: Rest client example app with dio implementation.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: '>=3.6.0 <4.0.0'
+
+dependencies:
+  collection: ^1.19.1
+  sentry_dio: ^8.13.0
+  dio: ^5.8.0+1
